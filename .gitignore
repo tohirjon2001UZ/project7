@@ -1,4 +1,4 @@
-# Windows va tizim fayllari
+# Tizim fayllari
 AppData/
 *.log
 *.tmp
@@ -7,9 +7,14 @@ AppData/
 # VS Code
 .vscode/
 
-# Google Chrome kesh
+# Chrome kesh
 */Cache/
 */Code Cache/
+
+# Git fayllar
+*.lock
+*.DS_Store
+*.swp
 
 # Node.js (agar ishlatilsa)
 node_modules/

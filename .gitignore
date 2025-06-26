@@ -1,0 +1,17 @@
+# Windows va tizim fayllari
+AppData/
+*.log
+*.tmp
+*.bak
+
+# VS Code
+.vscode/
+
+# Google Chrome kesh
+*/Cache/
+*/Code Cache/
+
+# Node.js (agar ishlatilsa)
+node_modules/
+dist/
+.env
